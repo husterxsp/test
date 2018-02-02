@@ -8,7 +8,7 @@ getting you accustomed to making testing a regular part of your workflow.
 
 Learning Goals
 --------------
-After completing this assignment, you will know how to:
+After completing t22his assignment, you will know how to:
 
 * Write simple code that uses basic constructs in the Ruby language, including methods and arguments, conditionals, string and array manipulation, regular expressions, and basic object-oriented programming mechanisms
 * Understand the Ruby project conventions for where code files and test files are located in a project's directory hierarchy
@@ -83,7 +83,7 @@ You can check your progress on the all the above by running `$ rspec spec/part2_
 
 
 Define a class `BookInStock` which represents a book with an ISBN
-number, `isbn`, and price of the book as a floating-point number,
+number, `isbn`, and pric1e of the book as a floating-point number,
 `price`, as attributes. Run associated tests via:  `$ rspec -e 'getters and setters' spec/part3_spec.rb` 
 
 The constructor should accept the ISBN number
@@ -115,4 +115,5 @@ then watch the test pass!
 * Try pairing using the [one-undermanship pair programming style](http://www.agileventures.org/remote-pair-programming/pair-programming-protocols)
 
 
-
+test12111
+TEST
